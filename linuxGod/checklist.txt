@@ -1,0 +1,28 @@
+checklist
+
+
+-data backup
+-dual boot with windows
+-cachyos secure boot enabled
+-security settings
+-cachyos documentation
+-after install hardware compatability check
+	-ports
+	-wifi
+	-bluetooth
+	-mouse
+	-keyboard
+	-trackpad
+	-speakers and dolby
+	-graphics
+	
+-essentials: jetbrains, brave, telegram, text editor, shell, 
+
+
+
+
+-------------------
+LATER stuff
+
+-hyprland
+
