@@ -2,6 +2,7 @@ checklist
 
 
 -data backup
+	-check for repos randomly placed
 -dual boot with windows
 -cachyos secure boot enabled
 -security settings
@@ -16,13 +17,21 @@ checklist
 	-speakers and dolby
 	-graphics
 	
--essentials: jetbrains, brave, telegram, text editor, shell, 
+-essentials: jetbrains, brave, telegram, text editor, shell, torrent, vlc, git
+
+
+-brave data sync
+-setup git config, keys
+
 
 
 
 
 -------------------
 LATER stuff
+
+
+-remove windows
 
 -hyprland
 
