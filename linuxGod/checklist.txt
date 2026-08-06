@@ -1,8 +1,18 @@
 checklist
 
+- papa user only basic folders: desktop, downloads, onedrive, pictures -> take backup delete user
 
--data backup
-	-check for repos randomly placed
+-clean drives for unnecessary stuff and organise properly -> D drive
+-rename files with spaces to no spaces
+
+-double check data backup
+-remove repos for cloning and easier setup later
+
+-possible problems with windows booting -> secure boot off
+
+
+-disable fast startup
+-change default boot
 -dual boot with windows
 -cachyos secure boot enabled
 -security settings
@@ -20,8 +30,12 @@ checklist
 -essentials: jetbrains, brave, telegram, text editor, shell, torrent, vlc, git
 
 
+
+make clean scheme for storing data -> d drive -> folder routing to linux-media
+-repos
 -brave data sync
--setup git config, keys
+-setup git config, keys, kotlin init
+-clone
 
 
 
