@@ -1,20 +1,11 @@
 checklist
 
-- papa user only basic folders: desktop, downloads, onedrive, pictures -> take backup delete user
+
 
 -clean drives for unnecessary stuff and organise properly -> D drive
 -rename files with spaces to no spaces
 
--double check data backup
--remove repos for cloning and easier setup later
 
--possible problems with windows booting -> secure boot off
-
-
--disable fast startup
--change default boot
--dual boot with windows
--cachyos secure boot enabled
 -security settings
 -cachyos documentation
 -after install hardware compatability check
