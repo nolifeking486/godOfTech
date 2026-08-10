@@ -76,6 +76,7 @@ sudo pacman -S mda.lv2
 
 
 # Late Game
+## Mouse key customization
 ## Hyprland Ricing
 ## AppArmor
 ## OBS
