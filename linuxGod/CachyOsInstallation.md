@@ -70,6 +70,7 @@ sudo pacman -S mda.lv2
 * Easyeffects configuration
 * routing folders
 * git repos setup
+* wifi perma fix `echo "options iwlwifi power_save=0" | sudo tee /etc/modprobe.d/iwlwifi.conf`
 * remove cachyos bloat
 
 
