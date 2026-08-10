@@ -25,6 +25,19 @@ Run these commands in the terminal to verify hardware integration:
 *   `nvidia-smi` (Verify Wayland is using proprietary NVIDIA drivers).
 *   `zramctl` (Verify ZRAM memory compression is active).
 
+## BTRFS Snapshots
+* just verify defaults and change number of saves to 10
+
+## Firewall
+* default enabled
+* open Firewall and change incoming default to deny
+
+## Heat Management
+* thermald (Intel)
+* install ` sudo pacman -S thermald`
+* start `sudo systemctl enable --now thermald.service `
+* check running properly `systemctl status thermald.service` and `journalctl -u thermald.service -b`
+
 ## Fix Display Scaling
 * display settings -> scaling
 
@@ -36,3 +49,34 @@ By default, Linux requires root passwords to access internal drives. To automate
 4. Toggle off **User Session Defaults**.
 5. Ensure **Mount at system startup** is checked.
 6. Save and reboot.
+
+
+## Audio Enhancements for built in speakers
+* using Easyeffects
+```
+sudo pacman -S easyeffects
+sudo pacman -S lsp-plugins-lv2
+sudo pacman -S zam-plugins
+sudo pacman -S calf
+sudo pacman -S mda.lv2
+```
+
+## Shelly
+
+## intellij
+
+## Skipping for now
+* important apps install
+* Easyeffects configuration
+* routing folders
+* git repos setup
+* remove cachyos bloat
+
+
+
+# Late Game
+## Hyprland Ricing
+## AppArmor
+## OBS
+
+
