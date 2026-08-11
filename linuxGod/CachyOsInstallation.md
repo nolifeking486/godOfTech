@@ -81,21 +81,23 @@ git remote set-url origin git@github.com:username/repository.git
 * add to Github
 
 
+## Todo next
+* Kde customization
+* text editor
+* make note of folder system
+* remove cachyos bloat
+
 ## Skipping for now
-* important apps install
 * Easyeffects configuration
-* routing folders
 * clean D drive
 * file naming -> no spaces
 * wifi perma fix `echo "options iwlwifi power_save=0" | sudo tee /etc/modprobe.d/iwlwifi.conf`
-* remove cachyos bloat
 
 
 
 # Late Game
 ## Mouse key customization
 ## Hyprland Ricing
-## AppArmor
 ## OBS
 
 
