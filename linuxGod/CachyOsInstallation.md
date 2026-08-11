@@ -62,14 +62,31 @@ sudo pacman -S mda.lv2
 ```
 
 ## Shelly
+* just configure, already installed
 
-## intellij
+## Important packages
+* Intellij
+* Brave : change settings and import bookmarks
+* Telegram
+* Qbittorent
+
+## Git
+* clone using ssh or later set url of repo to ssh one
+```
+git remote set-url origin git@github.com:username/repository.git
+```
+* generate ssh key `ssh-keygen -t ed25519 -C "your_email@example.com"
+`
+* check the key `cat ~/.ssh/id_ed25519.pub`
+* add to Github
+
 
 ## Skipping for now
 * important apps install
 * Easyeffects configuration
 * routing folders
-* git repos setup
+* clean D drive
+* file naming -> no spaces
 * wifi perma fix `echo "options iwlwifi power_save=0" | sudo tee /etc/modprobe.d/iwlwifi.conf`
 * remove cachyos bloat
 
