@@ -50,6 +50,11 @@ By default, Linux requires root passwords to access internal drives. To automate
 5. Ensure **Mount at system startup** is checked.
 6. Save and reboot.
 
+## Claim the drive
+* find exact user: `whoami`
+* path where drive is mounted : `df -h` copy it
+* run `sudo chown -R user:user /path/to/your/hdd`
+
 
 ## Audio Enhancements for built in speakers
 * using Easyeffects
