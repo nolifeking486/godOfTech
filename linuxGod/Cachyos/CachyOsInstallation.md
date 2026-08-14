@@ -96,13 +96,12 @@ git remote set-url origin git@github.com:username/repository.git
 * Easyeffects configuration
 * clean D drive
 * file naming -> no spaces
-* wifi perma fix `echo "options iwlwifi power_save=0" | sudo tee /etc/modprobe.d/iwlwifi.conf`
 
 
 
 # Late Game
-## Mouse key customization
-## Hyprland Ricing
-## OBS
+* Mouse key customization
+* Hyprland Ricing
+* OBS
 
 
