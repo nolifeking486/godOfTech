@@ -8,7 +8,7 @@
 * `Alt + Space` : Krunner
 * `Meta + W` : Overview (Desktops)
 
-## Mine
+## Custom
 * `Meta + Alt + B` : Browser
 * `Meta + Alt + I` : Intellij
 * `Meta + Alt + T` : Telegram
