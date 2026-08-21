@@ -65,15 +65,19 @@ sudo pacman -S zam-plugins
 sudo pacman -S calf
 sudo pacman -S mda.lv2
 ```
+## Battery
+* fix max charging level to `80%` in KDE Advanced Settings
 
-## Shelly
-* just configure, already installed
 
-## Important packages
-* Intellij
+## Important packages and remarks
+* Shelly: GUI package manager
+* Intellij: IDE
 * Brave : change settings and import bookmarks
 * Telegram
 * Qbittorent
+* Kitty: Terminal
+* Pear Desktop: Youtube music client -> find better alt later
+
 
 ## Git
 * clone using ssh or later set url of repo to ssh one
@@ -87,10 +91,7 @@ git remote set-url origin git@github.com:username/repository.git
 
 
 ## Todo next
-* Kde customization
-* text editor
-* make note of folder system
-* remove cachyos bloat
+* text editor -> configure and learn Neovim or Lazyvim
 
 ## Skipping for now
 * Easyeffects configuration

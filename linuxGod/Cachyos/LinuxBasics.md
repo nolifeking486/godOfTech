@@ -1,7 +1,0 @@
-# Terminology
-
-
-
-
-# Specific Packages
-* Krunner : 
