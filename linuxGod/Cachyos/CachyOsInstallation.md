@@ -89,7 +89,62 @@ git remote set-url origin git@github.com:username/repository.git
 * check the key `cat ~/.ssh/id_ed25519.pub`
 * add to Github
 
+---
+# How to Offload XDG Media Folders to HDD
 
+This guide covers moving default Linux media folders to a secondary HDD while keeping the system, web browsers, and legacy apps functioning perfectly.
+* **NOTE** : change "/mnt/hdd" to actual path
+## 1. Create Target Folders on HDD
+```bash
+mkdir -p /mnt/hdd/linux-media/{Downloads,Music,Pictures,Videos,Documents}
+```
+
+## 2. Move Existing Data
+Move contents from the SSD to the HDD (ignore any "No matches for wildcard" errors if the folder is empty).
+```bash
+mv ~/Downloads/* /mnt/hdd/linux-media/Downloads/ 2>/dev/null
+mv ~/Music/* /mnt/hdd/linux-media/Music/ 2>/dev/null
+mv ~/Pictures/* /mnt/hdd/linux-media/Pictures/ 2>/dev/null
+mv ~/Videos/* /mnt/hdd/linux-media/Videos/ 2>/dev/null
+mv ~/Documents/* /mnt/hdd/linux-media/Documents/ 2>/dev/null
+```
+
+## 3. Update XDG Configuration
+Update the system's XDG path configuration to natively use the HDD.
+```bash
+nano ~/.config/user-dirs.dirs
+```
+Update the variables inside:
+```text
+XDG_DOCUMENTS_DIR="/mnt/hdd/linux-media/Documents"
+XDG_DOWNLOAD_DIR="/mnt/hdd/linux-media/Downloads"
+XDG_MUSIC_DIR="/mnt/hdd/linux-media/Music"
+XDG_PICTURES_DIR="/mnt/hdd/linux-media/Pictures"
+XDG_VIDEOS_DIR="/mnt/hdd/linux-media/Videos"
+```
+
+## 4. Delete Old Folders
+Remove the now-empty directories from your home folder.
+```bash
+rmdir ~/Downloads ~/Music ~/Pictures ~/Videos ~/Documents
+```
+
+## 5. Create Symlinks (The Fallback)
+Create symlinks pointing back to `$HOME` so legacy apps don't accidentally create new folders on the SSD.
+```bash
+ln -s /mnt/hdd/linux-media/Downloads ~/Downloads
+ln -s /mnt/hdd/linux-media/Music ~/Music
+ln -s /mnt/hdd/linux-media/Pictures ~/Pictures
+ln -s /mnt/hdd/linux-media/Videos ~/Videos
+ln -s /mnt/hdd/linux-media/Documents ~/Documents
+```
+
+**To verify the symlinks worked:**
+```bash
+ls -la ~ | grep -- "->"
+```
+
+---
 ## Todo next
 * text editor -> configure and learn Neovim or Lazyvim
 
