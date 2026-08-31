@@ -3,8 +3,9 @@ one man software army
 
 
 ## Roadmaps in Progress
-* Kotlin
 * Bash
+* Go
+* Kotlin
 * DSA
 
 
@@ -12,6 +13,7 @@ one man software army
 
 ## Languages
 * C++
+* Go
 * Kotlin
 * Python
 * Bash
