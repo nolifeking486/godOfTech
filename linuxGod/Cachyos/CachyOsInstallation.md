@@ -16,7 +16,7 @@
 
 ## Installer
 * just go next next
-
+---
 
 # Post Install
 ## System Verification
@@ -55,6 +55,8 @@ By default, Linux requires root passwords to access internal drives. To automate
 * path where drive is mounted : `df -h` copy it
 * run `sudo chown -R user:user /path/to/your/hdd`
 
+## Asus built in Keyboard configure
+* `asusctl` : cli based manager
 
 ## Audio Enhancements for built in speakers
 * using Easyeffects
@@ -76,7 +78,7 @@ sudo pacman -S mda.lv2
 * Telegram
 * Qbittorent
 * Kitty: Terminal
-* Pear Desktop: Youtube music client -> find better alt later
+* Cliamp: Youtube Music client
 
 
 ## Git
