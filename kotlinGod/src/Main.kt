@@ -1,4 +1,3 @@
 fun main(){
-
-	print("hello")
+	print("hellow boys")
 }
