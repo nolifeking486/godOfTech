@@ -5,6 +5,8 @@
 
 ## Commands
 
+including built-in commands and CLI programs
+
 ### Files and Directories
 
 `rm` : remove files/Directories  
@@ -14,3 +16,8 @@
 `cp` : copy files and directories  
 `mv` : move files/dirs, rename files/dirs  
 `open` : open files/dirs using default apps  
+
+### C++
+
+`g++ filename.cpp` : Compile. make sure to save first, no flags will default to a.out executable  
+`./a.out` : Run
