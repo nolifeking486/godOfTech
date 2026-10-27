@@ -1,2 +1,48 @@
-[[dir]]
-path = "/home/devansh/Music/Religious/"
+[[track]]
+path = "/home/devansh/Music/Religious/Abhilipsa Panda - Karpur Gauram - Abhilipsa Mix.opus"
+title = "Karpur Gauram - Abhilipsa Mix"
+artist = "Abhilipsa Panda"
+album = "Karpur Gauram - Abhilipsa Mix"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Religious/Brijesh Shandilya, Ravi Khanna, Resmita Das, Everybody Productions - Hanuman Chalisa Superfast.opus"
+title = "Hanuman Chalisa Superfast"
+artist = "Brijesh Shandilya, Ravi Khanna, Resmita Das, Everybody Productions"
+album = "Hanuman Chalisa Superfast"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Religious/Jitesh Panchal - Bhasm Aarti (Shat Koti Naman).opus"
+title = "Bhasm Aarti (Shat Koti Naman)"
+artist = "Jitesh Panchal"
+album = "Bhasm Aarti (Shat Koti Naman)"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Religious/Mystica Music - Complete Rudri Path with Lyrics ｜ Vedic Chanting by 21 Brahmins.opus"
+title = "Complete Rudri Path with Lyrics | Vedic Chanting by 21 Brahmins"
+artist = "Mystica Music"
+genre = "People & Blogs"
+year = 1
+duration_secs = 2057
+
+[[track]]
+path = "/home/devansh/Music/Religious/Mystica Music - Vedic Chanting｜ Maha Mrityunjaya Mantra｜ Vedic Hymns by 21 Brahmins.opus"
+title = "Vedic Chanting| Maha Mrityunjaya Mantra| Vedic Hymns by 21 Brahmins"
+artist = "Mystica Music"
+genre = "People & Blogs"
+year = 1
+duration_secs = 3674
+
+[[track]]
+path = "/home/devansh/Music/Religious/Rasraj Ji Maharaj - Sunderkand.opus"
+title = "Sunderkand"
+artist = "Rasraj Ji Maharaj"
+album = "Sunderkand"
+genre = "Music"
+year = 1
+duration_secs = 3410

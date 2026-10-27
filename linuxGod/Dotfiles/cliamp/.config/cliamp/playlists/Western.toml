@@ -1,155 +1,165 @@
 [[track]]
-path = "/home/devansh/Music/Western/Chris Brown - Under The Influence.webm"
-title = "Under The Influence"
-artist = "Chris Brown"
-duration_secs = 184
-
-[[track]]
-path = "/home/devansh/Music/Western/Chris Brown, Drake - No Guidance.webm"
-title = "No Guidance"
-artist = "Chris Brown, Drake"
-
-[[track]]
-path = "/home/devansh/Music/Western/Chris Brown, Lil Wayne, Tyga - Loyal.webm"
-title = "Loyal"
-artist = "Chris Brown, Lil Wayne, Tyga"
-
-[[track]]
-path = "/home/devansh/Music/Western/Chris Brown, Ludacris - Wet The Bed.webm"
-title = "Wet The Bed"
-artist = "Chris Brown, Ludacris"
-
-[[track]]
-path = "/home/devansh/Music/Western/DJ Snake, Justin Bieber - Let Me Love You.webm"
+path = "/home/devansh/Music/Western/Ariana Grande, Lil Wayne - Let Me Love You.opus"
 title = "Let Me Love You"
-artist = "DJ Snake, Justin Bieber"
+artist = "Ariana Grande, Lil Wayne"
+album = "Dangerous Woman"
+genre = "Music"
+year = 1
+duration_secs = 223
 
 [[track]]
-path = "/home/devansh/Music/Western/Doja Cat - So High.webm"
-title = "So High"
-artist = "Doja Cat"
-
-[[track]]
-path = "/home/devansh/Music/Western/Doja Cat - Streets.webm"
-title = "Streets"
-artist = "Doja Cat"
-
-[[track]]
-path = "/home/devansh/Music/Western/Drake - Hotline Bling.webm"
-title = "Hotline Bling"
-artist = "Drake"
-
-[[track]]
-path = "/home/devansh/Music/Western/French Montana, Swae Lee - Unforgettable.webm"
-title = "Unforgettable"
-artist = "French Montana, Swae Lee"
-
-[[track]]
-path = "/home/devansh/Music/Western/G-Eazy, Bebe Rexha - Me, Myself & I.webm"
-title = "Me, Myself & I"
-artist = "G-Eazy, Bebe Rexha"
-
-[[track]]
-path = "/home/devansh/Music/Western/G-Eazy, Charlie Puth - Sober.webm"
-title = "Sober"
-artist = "G-Eazy, Charlie Puth"
-
-[[track]]
-path = "/home/devansh/Music/Western/Gym Class Heroes, Adam Levine - Stereo Hearts (feat. Adam Levine).webm"
-title = "Stereo Hearts (feat. Adam Levine)"
-artist = "Gym Class Heroes, Adam Levine"
-
-[[track]]
-path = "/home/devansh/Music/Western/Jack Ü, Skrillex, Diplo, Kai - Mind (feat. Kai).webm"
-title = "Mind (feat. Kai)"
-artist = "Jack Ü, Skrillex, Diplo, Kai"
-
-[[track]]
-path = "/home/devansh/Music/Western/Justin Bieber, Chance The Rapper - Confident.webm"
-title = "Confident"
-artist = "Justin Bieber, Chance The Rapper"
-
-[[track]]
-path = "/home/devansh/Music/Western/Khalid - Location.webm"
-title = "Location"
-artist = "Khalid"
-
-[[track]]
-path = "/home/devansh/Music/Western/Lil Tjay, 6lack - Calling My Phone.webm"
-title = "Calling My Phone"
-artist = "Lil Tjay, 6lack"
-
-[[track]]
-path = "/home/devansh/Music/Western/Mr.Kitty - After Dark.webm"
-title = "After Dark"
-artist = "Mr.Kitty"
-
-[[track]]
-path = "/home/devansh/Music/Western/OneRepublic - Counting Stars.webm"
-title = "Counting Stars"
-artist = "OneRepublic"
-
-[[track]]
-path = "/home/devansh/Music/Western/Post Malone, Swae Lee - Sunflower (Spider-Man： Into the Spider-Verse).webm"
-title = "Sunflower (Spider-Man： Into the Spider-Verse)"
-artist = "Post Malone, Swae Lee"
-
-[[track]]
-path = "/home/devansh/Music/Western/The Chainsmokers, Halsey - Closer.webm"
-title = "Closer"
-artist = "The Chainsmokers, Halsey"
-
-[[track]]
-path = "/home/devansh/Music/Western/The Weeknd - After Hours.webm"
-title = "After Hours"
-artist = "The Weeknd"
-
-[[track]]
-path = "/home/devansh/Music/Western/The Weeknd - Tears In The Rain.webm"
-title = "Tears In The Rain"
-artist = "The Weeknd"
-
-[[track]]
-path = "/home/devansh/Music/Western/Tory Lanez - Say It.webm"
-title = "Say It"
-artist = "Tory Lanez"
-
-[[track]]
-path = "/home/devansh/Music/Western/Bebe Rexha - I Got You.webm"
+path = "/home/devansh/Music/Western/Bebe Rexha - I Got You.opus"
 title = "I Got You"
 artist = "Bebe Rexha"
+album = "All Your Fault: Pt. 1"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Charlie Puth - Attention.webm"
+path = "/home/devansh/Music/Western/Charlie Puth - Attention.opus"
 title = "Attention"
 artist = "Charlie Puth"
+album = "Attention"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Cheat Codes, Dante Klein - Let Me Hold You (Turn Me On).webm"
+path = "/home/devansh/Music/Western/Cheat Codes, Dante Klein - Let Me Hold You (Turn Me On).opus"
 title = "Let Me Hold You (Turn Me On)"
 artist = "Cheat Codes, Dante Klein"
+album = "Let Me Hold You (Turn Me On)"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Halsey - Without Me.webm"
-title = "Without Me"
-artist = "Halsey"
+path = "/home/devansh/Music/Western/Chris Brown - Back To Sleep.opus"
+title = "Back To Sleep"
+artist = "Chris Brown"
+album = "Royalty (Deluxe Version)"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Major Lazer, DJ Snake, MØ, Diplo - Lean On.webm"
-title = "Lean On"
-artist = "Major Lazer, DJ Snake, MØ, Diplo"
+path = "/home/devansh/Music/Western/Chris Brown - Chris Brown - Back To Sleep REMIX ft. Usher, ZAYN.opus"
+title = "Chris Brown - Back To Sleep REMIX ft. Usher, ZAYN"
+artist = "Chris Brown"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Rihanna - Love On The Brain.webm"
-title = "Love On The Brain"
-artist = "Rihanna"
+path = "/home/devansh/Music/Western/Chris Brown - Under The Influence.opus"
+title = "Under The Influence"
+artist = "Chris Brown"
+album = "Indigo (Extended)"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/Sean Paul, Dua Lipa - No Lie.webm"
-title = "No Lie"
-artist = "Sean Paul, Dua Lipa"
+path = "/home/devansh/Music/Western/Chris Brown, Drake - No Guidance.opus"
+title = "No Guidance"
+artist = "Chris Brown, Drake"
+album = "Indigo"
+genre = "Music"
+year = 1
 
 [[track]]
-path = "/home/devansh/Music/Western/The Weeknd - Can't Feel My Face.webm"
-title = "Can't Feel My Face"
+path = "/home/devansh/Music/Western/Chris Brown, Lil Wayne, Tyga - Loyal.opus"
+title = "Loyal"
+artist = "Chris Brown, Lil Wayne, Tyga"
+album = "X (Expanded Edition)"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Chris Brown, Ludacris - Wet The Bed.opus"
+title = "Wet The Bed"
+artist = "Chris Brown, Ludacris"
+album = "F.A.M.E. (Expanded Edition)"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/DJ Snake, Justin Bieber - Let Me Love You.opus"
+title = "Let Me Love You"
+artist = "DJ Snake, Justin Bieber"
+album = "Encore"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Doja Cat - So High.opus"
+title = "So High"
+artist = "Doja Cat"
+album = "So High"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Doja Cat - Streets.opus"
+title = "Streets"
+artist = "Doja Cat"
+album = "Hot Pink"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Drake - God's Plan.opus"
+title = "God's Plan"
+artist = "Drake"
+album = "Scorpion"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/French Montana, Swae Lee - Unforgettable.opus"
+title = "Unforgettable"
+artist = "French Montana, Swae Lee"
+album = "Jungle Rules"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/G-Eazy, Bebe Rexha - Me, Myself & I.opus"
+title = "Me, Myself & I"
+artist = "G-Eazy, Bebe Rexha"
+album = "When It's Dark Out"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/G-Eazy, Charlie Puth - Sober.opus"
+title = "Sober"
+artist = "G-Eazy, Charlie Puth"
+album = "The Beautiful & Damned"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Shakira, Wyclef Jean - Hips Don't Lie.opus"
+title = "Hips Don't Lie"
+artist = "Shakira, Wyclef Jean"
+album = "Oral Fixation, Vol. 2"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/The Weeknd - Attention.opus"
+title = "Attention"
 artist = "The Weeknd"
+album = "Starboy"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Billion Stars - Drake - One Dance ft. Wizkid & Kyla.opus"
+title = "Drake - One Dance ft. Wizkid & Kyla"
+artist = "Billion Stars"
+genre = "Music"
+year = 1
+
+[[track]]
+path = "/home/devansh/Music/Western/Lyrics Of The Song - Drake - Hotline Bling.opus"
+title = "Drake - Hotline Bling"
+artist = "Lyrics Of The Song"
+genre = "Music"
+year = 1

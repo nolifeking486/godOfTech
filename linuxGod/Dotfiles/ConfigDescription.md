@@ -22,3 +22,4 @@ all changes made described briefly
 ## Cliamp
 
 - created local playlists
+- add custom plugin to save track with album art using yt-dlp on keypress `alt g`.
